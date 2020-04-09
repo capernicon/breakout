@@ -1,7 +1,7 @@
 # breakout
 Created during my university studies
 
-A simple game I created during my 2nd year of studies. Its made with the Open Source Processing Language/IDE -- a simplified version of Java.
+A simple game I created during my 2nd year of studies. Its made with the Open Source Processing Language/IDE -- a library for Java.
 
 It's a take on the 80's classic "Breakout" by which a player navigates the paddle by using the left and right arrow keys. The paddle deflects the ball
 into a wall of bricks; destroying them one-by-one.
