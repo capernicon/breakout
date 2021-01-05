@@ -1,4 +1,7 @@
 # breakout
+
+<img src="https://github.com/capernicon/breakout/blob/master/breakout.png" width="350" height="350">
+
 Created during my university studies
 
 A simple game I created during my 2nd year of studies. Its made with the Open Source Processing Language/IDE -- a library for Java.
